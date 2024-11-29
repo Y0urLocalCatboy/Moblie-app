@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718442490310",
+    "project_id": "toothly-bb365",
+    "storage_bucket": "toothly-bb365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718442490310:android:9850c29171bed1a60caac7",
+        "android_client_info": {
+          "package_name": "com.example.toothly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZFjTuzVcePzxPyeBO_5zV2bAP72Uzr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
